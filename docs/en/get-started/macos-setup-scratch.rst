@@ -26,11 +26,11 @@ Compile the Toolchain from Source
 
   - with MacPorts::
 
-        sudo port install gsed gawk binutils gperf grep gettext wget libtool autoconf automake
+        sudo port install gsed gawk binutils gperf grep gettext wget libtool autoconf automake help2man
 
   - with homebrew::
 
-        brew install gnu-sed gawk binutils gperftools gettext wget help2man libtool autoconf automake
+        brew install gnu-sed gawk binutils gperftools gettext wget help2man libtool autoconf automake help2man
 
 Create a case-sensitive filesystem image::
 
